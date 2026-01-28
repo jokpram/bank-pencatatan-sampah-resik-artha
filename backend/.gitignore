@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+uploads/
+*.txt
+api_tests.http
